@@ -3157,7 +3157,7 @@ body:has(.name[href^="/user/Z"]) .wrap[data-v-844c46ec] {
 
 .wrap[data-v-844c46ec]::after {
     content: 'Place your cursor here and scroll down to load the content';
-    background: url(https://i0.wp.com/rambutgelap.com/wp-content/uploads/2022/07/scroll-down-mouse.gif?ssl=1) center 430px / 80px no-repeat;
+    background: url(https://i0.wp.com/rambutgelap.com/wp-content/uploads/2022/07/scroll-down-mouse.gif?ssl=1) center 50dvh / 150px no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
